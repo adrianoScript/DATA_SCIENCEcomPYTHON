@@ -11,11 +11,12 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science co
 Lista de projetos em Jupyter Notebook:
 
 * **Modulo 01:** [Data Science com Python](https://github.com/adrianoScript/DATA_SCIENCEcomPYTHON/tree/main/Data%20Science%20com%20Python)
-* **Machine Learning para a Detecção de Câncer de Mama:** https://bit.ly/2JEU9xY
-* **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
-* **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Análise dos Dados do Airbnb para o Rio de Janeiro:** https://bit.ly/2oBxmeK
-* **Avaliação de Risco de Crédito - Nubank:** https://bit.ly/2MTFIH3
+* **Módulo 02:** [Manipulando Arquivos]()
+* **Modulo 03:** [Visualizando Gráficos e Data Storytelling]()
+* **Modulo 04:** [Análise e Tratamento de Dados]()
+* **Modulo 05:** [Dominando planilhas Excel]()
+* **Modulo 06:** [Web Scraping]()
+* **Modulo 07:** [Agendando tarefas e executando programas]()
 
 ---
 
