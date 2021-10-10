@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science co
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Detecção de Fraudes em Cartões de Crédito:** https://bit.ly/2Qr7Nai
+* **Modulo 01:** [Data Science com Python]()
 * **Machine Learning para a Detecção de Câncer de Mama:** https://bit.ly/2JEU9xY
 * **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
 * **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
