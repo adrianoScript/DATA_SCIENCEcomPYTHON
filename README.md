@@ -10,7 +10,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science co
 ## Projetos:
 Lista de projetos em Jupyter Notebook:
 
-* **Modulo 01:** [Data Science com Python]()
+* **Modulo 01:** [Data Science com Python](https://github.com/adrianoScript/DATA_SCIENCEcomPYTHON/tree/main/Data%20Science%20com%20Python)
 * **Machine Learning para a Detecção de Câncer de Mama:** https://bit.ly/2JEU9xY
 * **Analisando os Dados do Suicídio no Brasil (Setembro Amarelo):** https://bit.ly/2mvuTSd
 * **Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
