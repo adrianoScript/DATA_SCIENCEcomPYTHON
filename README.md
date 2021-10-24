@@ -11,7 +11,7 @@ Aqui você encontra os *notebooks* dos meus projetos na área de Data Science co
 Lista de projetos em Jupyter Notebook:
 
 * **Modulo 01:** [Data Science com Python](https://github.com/adrianoScript/DATA_SCIENCEcomPYTHON/tree/main/Data%20Science%20com%20Python)
-* **Módulo 02:** [Manipulando Arquivos](https://github.com/adrianoScript/DATA_SCIENCEcomPYTHON/tree/main/ManipulandoArquivos)
+* **Módulo 02:** [Manipulando Arquivos](https://github.com/adrianoScript/DATA_SCIENCEcomPYTHON/blob/main/Manipulando_Arquivos.ipynb)
 * **Modulo 03:** [Visualizando Gráficos e Data Storytelling]()
 * **Modulo 04:** [Análise e Tratamento de Dados]()
 * **Modulo 05:** [Dominando planilhas Excel]()
