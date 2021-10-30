@@ -29,4 +29,4 @@ Busco me aprofundar na area de Ciencia de Dados voltado para atender ao mercado 
 * Graduação em Análise e Desenvolvimento de Sistema pela UNOPAR.
 * Curso de Linguagem Progrmação em Python.
 * Curso de Data Science.
-* Cursando English.
+* English.
